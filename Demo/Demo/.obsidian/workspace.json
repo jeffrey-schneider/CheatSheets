@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "09b471d6452d941f",
+    "type": "split",
+    "children": [
+      {
+        "id": "45075271f708b309",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9f27db0f43af9a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-12-08.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9e8c405c32dba9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CGP Grey - Spaceship You.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2473c40d2fca526f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b7f6983a7ed6bce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afca5007247ab200",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "50bdc2ee95b3a02c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "339afa69ff9980c4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "68074899b1f3c833",
+    "type": "split",
+    "children": [
+      {
+        "id": "da8b20734749ed08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8dcbc21efda9e26",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CGP Grey - Spaceship You.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78093696a2e184f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CGP Grey - Spaceship You.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e1b65c63fd2c363",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5771a87d2f7c7630",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CGP Grey - Spaceship You.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "f9e8c405c32dba9b",
+  "lastOpenFiles": [
+    "2022-12-08.md",
+    "CGP Grey - Spaceship You.md"
+  ]
+}

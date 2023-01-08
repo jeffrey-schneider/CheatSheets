@@ -1,0 +1,62 @@
+ <DatePicker x:Name="datePicker" HorizontalAlignment="Left" Margin="207,157,0,0" VerticalAlignment="Top" Width="220" Height="86"/>
+ <Border BorderThickness="1" BorderBrush="Black">
+ </Border>
+ <Calendar x:Name="calendar"/>
+ 
+ 
+        <CheckBox x:Name="checkBox" Content="CheckBox"/>
+        <ComboBox x:Name="comboBox" Width="120">            
+        </ComboBox>
+        <ContentControl Content="ContentControl"/>
+        <DataGrid x:Name="dataGrid" Height="100"/>
+        <DatePicker x:Name="datePicker"/>
+        <DockPanel Height="100" LastChildFill="False"/>
+        <Ellipse Height="100" Stroke="Black" Width="100"/>
+        <Expander x:Name="expander" Header="Expander" Height="100" Width="100">
+            <Grid Background="#FFE5E5E5"/>
+        </Expander>
+		
+
+    <StackPanel>
+        <GroupBox x:Name="groupBox" Header="GroupBox" Height="100">
+            <Image x:Name="image" Height="100" Width="100"/>
+        </GroupBox>
+        <Label x:Name="label" Content="Label"/>
+        <ListBox x:Name="listBox" Height="100">
+            <ListView x:Name="listView" Height="100" Width="100">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </ListBox>
+        <MediaElement x:Name="mediaElement" Height="100" Width="100"/>
+        <Menu x:Name="menu" Height="100"/>
+        <PasswordBox x:Name="passwordBox" Width="120"/>
+        <ProgressBar Height="100" Width="100"/>
+        <RadioButton x:Name="radioButton" Content="RadioButton"/>
+        <Rectangle Height="100" Stroke="Black" Width="100"/>
+        <RichTextBox x:Name="richTextBox" Height="100">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="RichTextBox"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <ScrollBar x:Name="scrollBar"/>
+        <ScrollViewer Height="100">
+            <Slider x:Name="slider" Width="120"/>
+        </ScrollViewer>
+        <TextBlock x:Name="textBlock" Text="TextBlock" TextWrapping="Wrap"/>
+        <TextBox x:Name="textBox" Text="TextBox" TextWrapping="Wrap" Width="120"/>
+        <ToolBar x:Name="toolBar" Height="100" Width="100">
+            <ToolBarPanel/>
+        </ToolBar>
+        <ToolBarTray Height="100" Width="100"/>
+        <TreeView x:Name="treeView" Height="100">            
+        </TreeView>
+        <Viewbox Height="100"/>
+        <WebBrowser Height="100"/>
+    </StackPanel>
+</Window>
